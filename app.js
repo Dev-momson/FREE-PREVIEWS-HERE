@@ -10,13 +10,6 @@ const CONFIG = {
 
 const TG_URL    = `https://t.me/${CONFIG.telegram}`;
 const ZANGI_URL = CONFIG.zangiUrl;
-
-// =====================================================
-// PRODUCTS
-// =====================================================// Gerado em: 01/07/2026, 07:36:04
-// Site: https://dev-mega-link-all-content-available-now-dams.pantheonsite.io/badboyxs/// Gerado em: 01/07/2026, 07:57:26
-// Site: https://dev-mega-link-all-content-available-now-dams.pantheonsite.io/badboyxs/
-
 // Gerado em: 02/07/2026, 16:19:02
 // Site: https://dev-new-tee-n-and-c-p.pantheonsite.io/momson/
 
